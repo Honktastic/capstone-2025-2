@@ -27,7 +27,7 @@ Capstone segundo semestre 2025
   - [1.5 Definicion del proyecto](./Fase-1/documentacion-grupal/1.5_GuiaEstudiante_Fase1_Definicion_Proyecto_inventory_eye.docx)
   - [Carta Gantt](./Fase-1/documentacion-grupal/carta_gantt_v1_inventory_eye.xlsx)
   - [Presentacion Inventory Eye](./Fase-1/documentacion-grupal/inventory_eye.pptx)
-- [Individual](./fase-1/documentacion-individual/)
+- [Individual](./Fase-1/documentacion-individual/)
   - [1.1](./Fase-1/documentacion-individual/1.1_APT122_AutoevaluacionCompetenciasFase1.docx)
   - [1.2](./Fase-1/documentacion-individual/1.2_APT122_DiarioReflexionFase1_pvl.pdf)
   - [1.3](./Fase-1/documentacion-individual/1.3_APT122_AutoevaluaciónFase1_pvl.docx)
