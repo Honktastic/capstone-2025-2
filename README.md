@@ -28,9 +28,9 @@ Capstone segundo semestre 2025
   - [Carta Gantt](./Fase-1/documentacion-grupal/carta_gantt_v1_inventory_eye.xlsx)
   - [Presentacion Inventory Eye](./Fase-1/documentacion-grupal/inventory_eye.pptx)
 - [Individual](./fase-1/documentacion-individual/)
-  - [1.1](./fase-1/documentacion-individual/1.1_APT122_AutoevaluacionCompetenciasFase1.docx)
-  - [1.2](./fase-1/documentacion-individual/1.2_APT122_DiarioReflexionFase1_pvl.pdf)
-  - [1.3](./fase-1/documentacion-individual/1.3_APT122_AutoevaluaciónFase1_pvl.docx)
+  - [1.1](./Fase-1/documentacion-individual/1.1_APT122_AutoevaluacionCompetenciasFase1.docx)
+  - [1.2](./Fase-1/documentacion-individual/1.2_APT122_DiarioReflexionFase1_pvl.pdf)
+  - [1.3](./Fase-1/documentacion-individual/1.3_APT122_AutoevaluaciónFase1_pvl.docx)
 ## 📂 Fase 2
 - [Grupal](./fase-2/documentos-grupales/)
   - [2.4](./fase-2/documentos-grupales/2.4_GuiaEstudiante_Fase2_DesarrolloProyectoAPT_inventory_eye.docx)
