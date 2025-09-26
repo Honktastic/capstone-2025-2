@@ -19,3 +19,20 @@ Capstone segundo semestre 2025
 - [@Honktastic](https://github.com/Honktastic)
 
 
+# 📑 Indice
+
+## 📂 Fase 1
+- [Group A](./fase1/groupA/)
+  - [Item 1](./fase1/groupA/item1.md)
+  - [Item 2](./fase1/groupA/item2.md)
+- [Group B](./fase1/groupB/)
+  - [Item 1](./fase1/groupB/item1.md)
+  - [Item 2](./fase1/groupB/item2.md)
+
+## 📂 Phase 2
+- [Group A](./fase2/groupA/)
+  - [Item 1](./fase2/groupA/item1.md)
+  - [Item 2](./fase2/groupA/item2.md)
+- [Group B](./fase2/groupB/)
+  - [Item 1](./fase2/groupB/item1.md)
+  - [Item 2](./fase2/groupB/item2.md)
