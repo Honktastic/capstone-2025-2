@@ -22,17 +22,19 @@ Capstone segundo semestre 2025
 # 📑 Indice
 
 ## 📂 Fase 1
-- [Group A](./fase1/groupA/)
-  - [Item 1](./fase1/groupA/item1.md)
-  - [Item 2](./fase1/groupA/item2.md)
-- [Group B](./fase1/groupB/)
-  - [Item 1](./fase1/groupB/item1.md)
-  - [Item 2](./fase1/groupB/item2.md)
-
-## 📂 Phase 2
-- [Group A](./fase2/groupA/)
+- [Grupal](./Fase-1/documentacion-grupal/)
+  - [Documento APT](./Fase-1/documentacion-grupal/Informe_apt_1_espanol_inventory_eye.docx)
+  - [1.5 Definicion](./Fase-1/documentacion-grupal/1.5_GuiaEstudiante_Fase 1_Definicion Proyecto_inventory_eye.docx)
+  - [Item 2](./Fase-1/documentacion-grupal/)
+  - [Item 2](./Fase-1/documentacion-grupal/)
+- [Individual](./fase-1/documentacion-individual/)
+  - [Item 1](./fase-1/documentacion-individual/)
+  - [Item 2](./fase-1/documentacion-individual/)
+  - [Item 2](./fase-1/documentacion-individual/)
+## 📂 Fase 2
+- [Grupal](./fase2/groupA/)
   - [Item 1](./fase2/groupA/item1.md)
   - [Item 2](./fase2/groupA/item2.md)
-- [Group B](./fase2/groupB/)
+- [Individual](./fase2/groupB/)
   - [Item 1](./fase2/groupB/item1.md)
   - [Item 2](./fase2/groupB/item2.md)
