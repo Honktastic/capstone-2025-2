@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/Honktastic/capstone-2025-2/blob/main/assets/firefox_GZ3CjHk043.png" />
+</p>
 
 # Inventory-eye
 
